@@ -1,4 +1,4 @@
-# Java Sandpit
+# Sandpit Java
 
 ## About this project
 
